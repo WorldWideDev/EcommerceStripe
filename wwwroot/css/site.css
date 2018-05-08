@@ -1,0 +1,22 @@
+/*Write all of your CSS here*/
+nav#main-nav {
+    text-align: center;
+}
+nav#main-nav > h3{
+    display: inline-block;
+    margin: 0;
+}
+
+.product{
+    margin: 20px;
+    padding: 15px;
+    border: solid lightgreen 1px;
+    text-align: center;
+    display: inline-block;
+    width:  150;
+}
+
+.product > img{
+    width: 100px;
+    height: 100px;
+}
